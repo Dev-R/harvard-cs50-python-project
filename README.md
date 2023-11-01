@@ -1,8 +1,10 @@
+# Harvard CS50 Python Final Project Sample
 
-# Simple Animal Facts CLI
+## Simple Animal Facts CLI
 
-Get fascinating facts about your favorite animals using the command line interface (CLI).
+Get fascinating facts about your favourite animals using the command line interface (CLI).
 
+![Logo](https://raw.githubusercontent.com/Dev-R/harvard-cs50-python-project/main/imgs/sample.png)
 
 
 ## Run Locally
@@ -28,10 +30,9 @@ options:
                         Number of facts to return
 ```
 
-
 ## Demo
+![Logo](https://raw.githubusercontent.com/Dev-R/harvard-cs50-python-project/main/imgs/ezgif.com-video-to-gif.gif)
 
-![Logo]()
 
 
 ## License

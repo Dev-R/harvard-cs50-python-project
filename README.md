@@ -15,6 +15,11 @@ Clone the project
   git clone https://github.com/Dev-R/animal-facts.git
 ```
 
+Install dependencies
+```python
+pip install -r requirements.txt
+```
+
 
 Start typing
 ```python
